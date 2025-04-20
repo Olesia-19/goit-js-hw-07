@@ -1,0 +1,32 @@
+.widget {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 169px;
+    margin: 0 auto;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+    margin: 0 auto;
+}
+
+.change-color {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 148px;
+    height: 40px;
+    margin: 0 auto;
+    background-color: #4e75ff;
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
